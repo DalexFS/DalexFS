@@ -1,10 +1,11 @@
 # Jhonatan Betancur
 
-## Desarrollador Full Stack
-
+## 💻 Desarrollador Full Stack
+🎂 01 de agosto de 2000
 📍 Medellín, Colombia  
 ✉️ jhon.alex.01082000@gmail.com  
 🔗 [LinkedIn](https://www.linkedin.com/in/jhonatan-betancur-817203211/) | [GitHub](https://github.com/DalexFS)  
+
 
 ---
 
